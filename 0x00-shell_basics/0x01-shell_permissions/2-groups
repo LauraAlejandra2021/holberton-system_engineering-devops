@@ -1,0 +1,2 @@
+#!/bin/bash
+dsadd computer computer_dn
