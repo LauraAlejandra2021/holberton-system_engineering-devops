@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-#comment
+#loop, while, and conditional
 i=0
 while [ $i -le 9 ]
 do
