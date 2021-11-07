@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#looking for ip addresses
+ifconfig -a | grep -w inet | awk '{print $2}'
