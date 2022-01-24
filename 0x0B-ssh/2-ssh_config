@@ -1,6 +1,6 @@
 Host *
     IdentityFile ~/.ssh/school
-Host 34.75.193.83
+Host 54.226.119.239
     user ubuntu
     IdentityFile ~/.ssh/school
     PermitEmptyPasswords yes
