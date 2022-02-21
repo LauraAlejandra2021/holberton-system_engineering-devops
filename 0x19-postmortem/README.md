@@ -1,2 +1,2 @@
 0x19 Postmortem
-https://www.linkedin.com/posts/lauracadavid-software-developer_post-mortem-activity-6901379743057604608-4fqb
+https://www.linkedin.com/pulse/informe-post-mortem-laura-alejandra-cadavid-software-developer
